@@ -1,0 +1,29 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="20" scrolly="19.999999999999943" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="initSettings" id="+Liq.OJ|%U9rE/#EJnG+" x="10" y="-10">
+      <field name="LOAD_COMP_ASSETS">TRUE</field>
+      <field name="FULLSCREEN">FALSE</field>
+      <field name="BKG_TRANSPARENCY">TRUE</field>
+      <field name="PRESERVE_DRAW_BUF">FALSE</field>
+      <field name="FADE_ANNOTATIONS">TRUE</field>
+    </block>
+  </tab>
+  <tab name="interface" type="CommonTab" active="true" scrollx="19.999999999999773" scrolly="0" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="addHTMLElement" id="{.3j]ijG4.0`izlr?daO" x="-10" y="10">
+      <field name="ELEMENT">a</field>
+      <field name="MODE">TO</field>
+      <field name="PARENT">FALSE</field>
+      <value name="ID">
+        <shadow type="text" id="cs#s3/eLPP^J)?r#[y/(">
+          <field name="TEXT">enter_AR_button</field>
+        </shadow>
+      </value>
+      <value name="TARGET_ID">
+        <shadow type="DOMObjectSelector" id="_Z+8`{_)ZvX.~RF0OYNs">
+          <field name="DOM_OBJECT">CONTAINER</field>
+        </shadow>
+      </value>
+    </block>
+  </tab>
+  <editorsettings viewport-x="898.8" viewport-y="37" viewport-w="611.2" viewport-h="369" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
